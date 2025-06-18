@@ -55,5 +55,5 @@ MIT
 
 ---
 
-**Author:** [Your Name]  
-**Contact:** [your.email@example.com]
+**Author:** David Larsen
+**Contact:** dc2larsen@gmail.com
